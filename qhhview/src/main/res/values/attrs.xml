@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressBar">
+        <attr name="default_bar_color" format="color"/>
+        <attr name="progress_bar_color" format="color"/>
+        <attr name="percent_color" format="color"/>
+        <attr name="percent_text_size" format="dimension"/>
+        <attr name="percent_max" format="integer"/>
+        <attr name="radius" format="float"/>
+    </declare-styleable>
+</resources>
